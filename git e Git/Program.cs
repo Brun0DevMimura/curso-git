@@ -8,6 +8,7 @@ namespace git_e_Git
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
+            Console.WriteLine("Desejando um Bom dia!");
         }
     }
 }
